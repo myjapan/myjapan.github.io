@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://myjapan.github.io
+title: My Japan Raiload
+subtitle: Building an Arduino-based Railroad layout set in Japan
+author: 
 simple_search: https://www.google.com/search
 description:
 
