@@ -4,7 +4,7 @@
   <title><![CDATA[My Japan Raiload]]></title>
   <link href="http://myjapan.github.io/atom.xml" rel="self"/>
   <link href="http://myjapan.github.io/"/>
-  <updated>2015-02-06T11:46:55+01:00</updated>
+  <updated>2015-02-06T14:27:44+01:00</updated>
   <id>http://myjapan.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,5 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pronti, via!]]></title>
+    <link href="http://myjapan.github.io/blog/2015/02/06/pronti-via/"/>
+    <updated>2015-02-06T11:51:12+01:00</updated>
+    <id>http://myjapan.github.io/blog/2015/02/06/pronti-via</id>
+    <content type="html"><![CDATA[<blockquote><p> Il controllo digitale permette di comandare manualmente moltissime locomotive contemporaneamente senza la necessità di fare sezionamenti sulle rotaie. <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p></blockquote>
+
+<p>No&hellip; aspetta che rileggo: <em>moltissime locomotive&hellip; insieme&hellip; senza sezionamenti?!</em>
+Una luce arancio ha illuminato la stanza e una voce mi ha suggerito: &ldquo;E&#8217; giunto il momento!&rdquo;</p>
+
+<!--more-->
+
+
+<p>Si scherza, certamente, però la sorpresa è stata tanta quando ho letto dei progressi ottenuti tramite l&#8217;adozione del DCC nel modellismo ferroviario.
+Certamente è stata quella informazione a darmi lo slancio decisivo per inizare la costruzione di un</p>
+
+<ul>
+<li>plastico ferroviario</li>
+<li>giapponese</li>
+<li>gestito da Arduino.</li>
+</ul>
+
+
+<h2>Plastico ferroviario</h2>
+
+<p>Il desiderio mi è rimasto fin da bambino degli anni &lsquo;80, quando i giochi si <em>facevano</em> in un senso molto più fisico dell&#8217;odierno.
+Poi passano gli anni e arrivano i computer, poi Internet, gli smartphone e siamo sempre tutti &ldquo;connessi&rdquo;.
+La &ldquo;connessione&rdquo; non la vedi, pochissimi la <em>conoscono</em> (quanti sanno a cosa serve un DNS?), ma sembra essere diventata essenziale.</p>
+
+<p>I miei figli sono ancora piccoli ma conoscono già parole come &ldquo;tablet&rdquo; e &ldquo;smartphone&rdquo; &ndash; perciò vorrei provare a
+dare loro qualcosa di più <strong>visibile</strong> e unico. Qualcosa che nasca e progredisca gradatamente &ndash; che dia una soddisfazione sicuramente meno immediata, ma più intensa nel tempo &ndash; che permetta di accrescere la manualità, l&#8217;impegno, la pazienza e la tecnica.</p>
+
+<h2>Giapponese</h2>
+
+<p>E&#8217; una mia passione. Giappone ovunque, quindi anche nel plastico. Ambientazione, segnaletica, possibilemnte anche il materiale rotabile (se riuscirò a trovarne)</p>
+
+<h2><a href="http://www.arduino.cc">Arduino</a></h2>
+
+<p>E&#8217; un&#8217;altra rivoluzione! Arduino permetterà la gestione delle componenti elettroniche, iniziando dai diodi per l&#8217;illuminazione, ai servomotori per gli scambi e i passaggi a livello.</p>
+
+<h2>Devo rispettare due regole:</h2>
+
+<p>1- Non comprare nulla che non sia strettamente indispensabile (Corollario alla regola: imparare ad autocostruire il più possibile)</p>
+
+<p>2- Presto e bene non stanno assieme</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>http://www.dccworld.it/index.php?page=informazioni/faq.html#serve<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
 </feed>
