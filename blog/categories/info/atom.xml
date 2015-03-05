@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Japan Railroad]]></title>
-  <link href="http://myjapan.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: info | My Japan Railroad]]></title>
+  <link href="http://myjapan.github.io/blog/categories/info/atom.xml" rel="self"/>
   <link href="http://myjapan.github.io/"/>
   <updated>2015-03-05T00:13:46+01:00</updated>
   <id>http://myjapan.github.io/</id>
@@ -32,8 +32,8 @@ Il muro sullo sfondo è stato dipinto a mano prendendo spunto da una fotografia.
 <p>Il tracciato è a &ldquo;osso di cane&rdquo;. La stazione principale sarà posizionata nei pressi dell&#8217;angolo della &ldquo;L&rdquo;. Le curve di ritorno verranno nascoste da tratti in galleria.
 Grazie ai consigli ricevuti sul forum di <a href="http://www.scalatt.it/forum">scalatt.it</a>, per dare ai convogli la possibilità di seguire due percorsi distinti ho aggiunto un tratto ad una quota sopraelevata lungo il quale mi piacerebbe inserire una stazione secondaria.</p>
 
-<p><img class="left" src="http://myjapan.github.io/images/DSC_0438.jpg" title="'panoramica'" >
-<img class="left" src="http://myjapan.github.io/images/2livelli.png" title="'tracciato'" ></p>
+<p><img class="left" src="/images/DSC_0438.jpg" title="&lsquo;panoramica&rsquo;" >
+<img class="left" src="/images/2livelli.png" title="&lsquo;tracciato&rsquo;" ></p>
 
 <h2>Ambientazione</h2>
 
