@@ -4,7 +4,7 @@
   <title><![CDATA[My Japan Railroad]]></title>
   <link href="http://myjapan.github.io/atom.xml" rel="self"/>
   <link href="http://myjapan.github.io/"/>
-  <updated>2015-03-05T00:13:46+01:00</updated>
+  <updated>2015-05-30T15:31:56+02:00</updated>
   <id>http://myjapan.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Autocostruzione degli scambi]]></title>
+    <link href="http://myjapan.github.io/blog/2015/04/07/autocostruzione-degli-scambi/"/>
+    <updated>2015-04-07T10:12:50+02:00</updated>
+    <id>http://myjapan.github.io/blog/2015/04/07/autocostruzione-degli-scambi</id>
+    <content type="html"><![CDATA[<p>Il progetto del tracciato prevedeva 2 scambi in curva, quindi ho subito considerato l&#8217;ipotesi dell&#8217;autocostruzione.
+Ho visto le bellissime realizzazioni di <a href="https://www.youtube.com/user/TimWarris/videos?flow=grid&amp;sort=da&amp;view=0&amp;spfreload=1">Tim Warris</a> per la realizzazione del <a href="http://www.bronx-terminal.com">CNJ Bronx Terminal</a></p>
+
+<!--more-->
+
+
+<p>Ho scaricato dal sito <a href="http://www.handlaidtrack.com/Fast-Tracks-Printable-Track-Templates-s/11.htm">handlaidtrack.com</a> il disegno dello scambio curvo.
+Dopo averlo incollato ad un pezzo di perlina, ho iniziato la costruzione seguendo le guide che ho trovato in rete:
+<a href="http://www.rotaie.it/New%20Pages/AutocostruzioneScambi.html">Riccardo Oliviero su rotaie.it e TuttoTreno</a>
+<a href="https://www.youtube.com/user/FastTracksTools">Il canale FastTrack Tools su Youtube</a></p>
+
+<p><img class="left" src="http://myjapan.github.io/images/IMG_3654.jpg">
+<img class="left" src="http://myjapan.github.io/images/IMG_3656.jpg">
+<img class="left" src="http://myjapan.github.io/images/IMG_3668.jpg"></p>
+
+<p>Dopo varie prove, ho modificato leggermente il tracciato e al posto del secondo scambio in curva si è resa necessaria la realizzazione di uno scambio sinistro di media lunghezza: mi sono ispirato al Peco SL-96. Il pdf in scala 1:1 è <a href="http://www.peco-uk.com/page.asp?id=pointplans">scaricabile dal loro sito</a></p>
+
+<p><img class="left" src="http://myjapan.github.io/images/IMG_3707.jpg">
+<img class="left" src="http://myjapan.github.io/images/IMG_3709.jpg"></p>
+
+<p>Le mie due autocostruzioni non sono raffinate e curate come quelle che ho visto in rete, ma vi assicuro che ho provato una grande soddisfazione.
+Da&#8217; un grande slancio alla prosecuzione del lavoro!</p>
+
+<p>Il gli scambi verranno motorizzati utilizzando dei micro servo + Arduino</p>
+
+<h1>Alcune considerazioni</h1>
+
+<ol>
+<li>Non pensate che sia troppo difficile</li>
+<li>Non mi sono serviti strumenti particolari. Niente dime. I pezzi li ho tenuti fermi con del biadesivo.</li>
+<li>Il cuore dello scambio va polarizzato. Voglio utilizzare dei microswitch con levetta tipo fine-corsa azionati dal movimento del sevomotore, come mostrato nel <a href="https://youtu.be/PFScBOVSnrU">video di Dave Fenton</a></li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Descrizione]]></title>
