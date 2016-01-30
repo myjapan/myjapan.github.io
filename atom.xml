@@ -4,7 +4,7 @@
   <title><![CDATA[My Japan Railroad]]></title>
   <link href="http://myjapan.github.io/atom.xml" rel="self"/>
   <link href="http://myjapan.github.io/"/>
-  <updated>2015-06-17T10:28:48+02:00</updated>
+  <updated>2016-01-30T11:12:27+01:00</updated>
   <id>http://myjapan.github.io/</id>
   <author>
     <name><![CDATA[Marco Aroldi]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Stato avanzamento lavori]]></title>
+    <link href="http://myjapan.github.io/blog/2016/01/30/stato-avanzamento-lavori/"/>
+    <updated>2016-01-30T11:00:29+01:00</updated>
+    <id>http://myjapan.github.io/blog/2016/01/30/stato-avanzamento-lavori</id>
+    <content type="html"><![CDATA[<p>I lavori procedono, anche se a rilento. Pubblico di seguito qualche foto.
+Il percorso è stato interamente posato, ora mi sto occupando della parte elettrica e la sistemazione dei servomotori sotto gli scambi &ndash; dedicherò all&#8217;argomento un post a parte</p>
+
+<!--more-->
+
+
+<p><img class="left" src="http://myjapan.github.io/images/IMG_5901.jpg">
+<img class="left" src="http://myjapan.github.io/images/IMG_5902.jpg">
+<img class="left" src="http://myjapan.github.io/images/IMG_5903.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Autocostruzione degli scambi]]></title>
